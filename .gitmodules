@@ -1,0 +1,3 @@
+[submodule "tillsammans"]
+	path = tillsammans
+	url = git@github.com:samstalhandske/tillsammans.git
